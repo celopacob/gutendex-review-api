@@ -1,5 +1,11 @@
 # Gutendex Based Api
 
+## - Tech Stack:
+
+    - Java 17 (Spring Boot), Maven 3 and docker;
+
+    - MySQL database (as a docker container);
+
 ## - To run it locally (Based on MacOS and Linux machines):
 
     1 - Install Java 17, Maven 3 and docker (with compose) in your machine;
