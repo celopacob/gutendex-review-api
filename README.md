@@ -1,8 +1,8 @@
 # Gutendex Based Api
 
-## - To run it locally:
+## - To run it locally (Based on MacOS and Linux machines):
 
-    1 - Install Java 17, Maven 3 and docker in your machine;
+    1 - Install Java 17, Maven 3 and docker (with compose) in your machine;
 
     2 - Clone this repo;
 

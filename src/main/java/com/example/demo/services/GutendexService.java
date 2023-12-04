@@ -187,4 +187,6 @@ public class GutendexService {
         bookDto.setRating(totalRating.isPresent()?totalRating.getAsDouble():0.0);
         bookDto.setReviews(reviewList);
     }
+
+    // TO-DO: Implement logging and improve the error handling on the app.
 }
